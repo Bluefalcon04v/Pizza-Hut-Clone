@@ -33,9 +33,13 @@ dropdowns.forEach(dropdown =>{
             options.forEach(option=>{
                 option.classList.remove('active');
             });
-            // option.classList.add('active');
             option.classList.add('active');
         });
     });
 });
 
+// basket logo toggle
+let Basket = document.querySelector(".flex-basket");
+function basketshow(){
+    Basket.classList.toggle("hide")
+}
