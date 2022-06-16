@@ -231,7 +231,10 @@ span.selected{
         margin-top: 0px;
     }
     nav{
-        height: 120px;
+        height: 130px;
+    }
+    .boxitems{
+        padding: 23px 32px 17px 30px;
     }
 
     .itembar {
@@ -271,5 +274,4 @@ span.selected{
     .hide{
         display: none;
     }    
-
 }
