@@ -317,7 +317,6 @@ img.sub-icons{
     height: 18px;
     width: 18px;
     margin: 2px 2px 0px 6px;
-    
 }
 
 img.spice{
@@ -333,6 +332,8 @@ img.new{
 }
 
 .basketlogo img{
+    position: fixed;
+    margin-left: -3em;
     height: 26px;
     width: 33px;
 }
