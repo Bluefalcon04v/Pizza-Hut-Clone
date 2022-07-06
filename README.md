@@ -1,8 +1,9 @@
-# Pizza-Hut-clone_website
 
-link (https://pizzahutclone.netlify.app/)
+<a style="color:lightgreen;" href= "https://pizzahutclone.netlify.app/"> <h1> Pizza Hut Clone Website </h1></a>
 
+### link https://pizzahutclone.netlify.app/
+<br>
 
-#Task 
-i wanted to check my skills of HTML, CSS and JS so i build this clone website of Pizza Hut as my FIRST FRONTEND PROJECT. i have learned many more things while working on this project :)
+## Task
+I had choosen to build this website as my __First Project__ for frontend development. I have learned alot of stuffs while making it.
 
