@@ -9,7 +9,7 @@ ___
 ## Task
 I have build this website as my __First Project__ for frontend development.
 
- While making this project i learned alot about how <span style="color:lightblue;"> FLEX BOX </span> works and about  <span style="color:lightblue;"> RESPONSIVE DESIGN </span>  too.
+I have tried to clone Pizza Hut Website at my best level.
 ___
 
 ## Summary 
