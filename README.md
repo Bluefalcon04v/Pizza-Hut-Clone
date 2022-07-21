@@ -37,6 +37,7 @@ In this Repository you will find several HTML files and some CSS file and one JS
 
 **Script.JS file**
 > It have basic of JS for Drop down Selector in Pizza Section and just bunch of stuffs for basket logo for Resposive designing. 
+***
 
 ### Run locally
 Steps to run in your Machine
