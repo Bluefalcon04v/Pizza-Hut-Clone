@@ -1,5 +1,5 @@
 
-<a style="text-decoration: none; color: orange;" href= "https://pizzahutclone.netlify.app/"> <h1> Pizza Hut Clone Website </h1></a>
+<a href= "https://pizzahutclone.netlify.app/"> <h1> Pizza Hut Clone Website </h1></a>
 
 
 ### link https://pizzahutclone.netlify.app/
@@ -7,11 +7,11 @@ ___
 
 
 ## Task
-I have tried to clone Pizza Hut Website at my best level as my __First Project__ for frontend development.
+I have cloned Pizza Hut Website as my __First Project__ for frontend development.
 ___
 
 ## Summary 
-In this Repository you will find several HTML files and some CSS file and one JS code 
+In this Repository you will find several HTML, CSS and JS files and Images folders that have been used to make the project.
 
 **html Files**
 > All html files have the details of particular sections
