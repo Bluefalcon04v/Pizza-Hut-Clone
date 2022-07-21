@@ -26,7 +26,7 @@ In this Repository you will find several HTML files and some CSS file and one JS
 > > 
 > > And the last Section is Drinks.html
 
-**CSS**
+**CSS Files**
 > It have two files "Style.CSS" and "Utility.CSS"
 > >
 > > **Style.CSS**
