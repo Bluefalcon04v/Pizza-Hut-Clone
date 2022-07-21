@@ -35,7 +35,7 @@ In this Repository you will find several HTML files and some CSS file and one JS
 > > **Utility.CSS**
 > > it have everything related like Hover Effects, Resposive designing, Media Query, Before and After Effects etc
 
-**Script.JS file**
+**JS file**
 > It have basic of JS for Drop down Selector in Pizza Section and just bunch of stuffs for basket logo for Resposive designing. 
 ***
 
