@@ -11,7 +11,7 @@ I have cloned Pizza Hut Website as my __First Project__ for frontend development
 ___
 
 ## Summary 
-In this Repository you will find several HTML, CSS and JS files and Images folders that have been used to make the project.
+In this Repository we have some HTML, CSS and JS files and Images folders that have been used to make the project.
 
 **html Files**
 > All html files have the details of particular sections
