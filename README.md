@@ -1,5 +1,5 @@
 
-<a href= "https://pizzahutclone.netlify.app/"> <h1> Pizza Hut Clone Website </h1></a>
+<a href= "https://pizzahutclone.netlify.app/"> <h1> Pizza Hut Front-End Clone </h1></a>
 
 
 ### link https://pizzahutclone.netlify.app/
