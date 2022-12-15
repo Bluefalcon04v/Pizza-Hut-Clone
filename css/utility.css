@@ -20,6 +20,7 @@ body{
 .boxitems.active {
   background-image: url(../images/side-menu-bg.jpg);
   color: white;
+  background-attachment: fixed;
 }
 
                                                                  /* Basket styling */
