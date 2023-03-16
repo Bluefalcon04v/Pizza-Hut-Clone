@@ -7,7 +7,7 @@ ___
 
 
 ## Task
-I have cloned Pizza Hut Website as my __First Project__ for frontend development.
+Created a Statics Pizza Hut Website as my __First Project__ for frontend development.
 ___
 
 ## Summary 
